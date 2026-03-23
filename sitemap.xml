@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/404.html</loc>
+    
+    <lastmod>2026-03-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/tags/index.html</loc>
+    
+    <lastmod>2026-03-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/categories/index.html</loc>
+    
+    <lastmod>2026-03-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/undefined/hello-world/</loc>
+    
+    <lastmod>2026-03-23</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/cn/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/en/Hexo-Theme-LiveMyLife/</loc>
+    
+    <lastmod>2020-04-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/archive/index.html</loc>
+    
+    <lastmod>2017-03-20</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/about/index.html</loc>
+    
+    <lastmod>2016-04-20</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://xibaaxiba.github.io/</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/tags/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://xibaaxiba.github.io/categories/Hexo-Theme-LiveMyLife/</loc>
+    <lastmod>2026-03-23</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+</urlset>
